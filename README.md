@@ -9,7 +9,7 @@
 - [My Badges](https://www.credly.com/users/wentao-chen.17e3de86)
 
 <p align=""> 
-  <img width="200" height="200" src="https://images.credly.com/size/680x680/images/185cc170-5fd7-4180-ab9a-4cd4c4537e60/image.png" alt="trophy" />
+  <img width="200" height="200" src="https://images.credly.com/size/340x340/images/260e36dc-d100-45c3-852f-9d8063fa71e6/pmp-600px.png" alt="trophy" />
 </p>
 
 <p align=""> 
